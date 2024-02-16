@@ -92,7 +92,7 @@ curl --request PUT \
 '
 ```
 
-## Managing Brevo Webhooks
+## Testing
 
 Once everything is set up, you can perform tests to ensure that notifications are being received in your Slack channel for the specified Brevo events.
 
